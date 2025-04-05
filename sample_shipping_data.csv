@@ -1,0 +1,4 @@
+Invoice #,Invoice Date,Trans. Date,Cust. PO #,Ship Via,Comment,Ship To Name,Item Code,Description,Qty Ordered,Qty Shipped,Qty Backorder,PRO NUMBER
+INV-1001,2023-01-15,2023-01-10,PO-12345,UPS,Urgent delivery,Acme Corp,ITEM-001,Widget A,100,100,0,PR12345678
+INV-1002,2023-01-16,2023-01-11,PO-12346,FedEx,Standard delivery,Globex Inc,ITEM-002,Widget B,50,30,20,PR12345679
+INV-1003,2023-01-17,2023-01-12,PO-12347,DHL,"Fragile, handle with care",Contoso Ltd,ITEM-003,Widget C,200,150,50,PR12345680
